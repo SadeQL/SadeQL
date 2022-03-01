@@ -5,9 +5,7 @@ I'm Quentin! Welcome to my GitHub profile. Get to know me on different aspects!
 - 🌱 I’m currently learning at Ada Tech School to be a **Full Stack Developer**. 
 - 💻 The technologies I'm learning: Javascript, React, Golang, Python, Django, Ruby, Rails.
 - 👯 I’m looking for a **one-year apprenticeship starting June 2022** (4 days at the company and 1 day at school: Friday).
-- 🔭 I’m currently working on two personal projects: 
-       - ☯️  Chinese Astrology Service Website
-       - 💍 Independant jewelry artist e-commerce website. 
+- 🔭 I’m currently working on two personal projects: 1/ ☯️  Chinese Astrology Service Website 2/ 💍 Independant jewelry artist e-commerce website. 
 
 
 - 🎭 Huge performance art fan: I used to be comedian and director. 
