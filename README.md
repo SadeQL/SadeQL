@@ -10,7 +10,7 @@ I'm Quentin! Welcome to my GitHub profile. Get to know me on different aspects!
 
 - 🎭 Huge performance art fan: I used to be comedian and director. 
 - 📱 Previous marketer: I'm all in for digital evolution!
-- 📫 How to reach me: Contact me on [LinkedIn](https://www.linkedin.com/in/quentinyuehyu-lee/)
+- 📫 How to reach me: Contact me on [LinkedIn](https://www.linkedin.com/in/quentin-lee/)
 - 😄 Pronouns: He/Him/They/Them
 - ⚡ Fun fact: It seems I cook well...
 
