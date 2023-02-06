@@ -1,28 +1,49 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-I'm Quentin! Welcome to my GitHub profile. Get to know me on different aspects!
+<style>
+    .icons {
+        font-size: 3em;
+    }
+</style>
+          
 
-- 🌱 I’m currently working at Welcome to the jungle France as Backend Developer Apprentice. 
-- 💻 The technologies I'm working on: 
+<img src="imgs/header.png" alt="header" align="center">
 
-![Elixir](https://img.shields.io/badge/-elixir-black?style=flat-square&logo=elixir)
-![Phoenix](https://img.shields.io/badge/-phoenix-black?style=flat-square&logo=Phoenix)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-black?style=flat-square&logo=postgresql)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-django-black?style=flat-square&logo=django)
+<h2 align="center">I'm Quentin, currently working at Welcome to the Jungle as a Backend Developer Apprentice.</h2>
 
-
-- 🎭 Huge performance art fan: I used to be comedian and director. 
-- 📱 Previous marketer: I'm all in for digital evolution!
-- 😄 Pronouns: He/Him/They/Them
-- ⚡ Fun fact: It seems I cook well...
-- 📫 How to reach me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Quentin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/quentin-lee/)
+[![Linkedin Badge](https://img.shields.io/badge/-Quentin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-lee/)](https://www.linkedin.com/in/quentin-lee/)
 [![Gmail Badge](https://img.shields.io/badge/-quentinyuehyulee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:quentinyuehyulee@gmail.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadeQL&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadeQL&show_icons=true&theme=chartreuse-dark&count_private=true)
+<h1>Technologies I'm working on 💻:</h1>
+
+<table align="center">
+<tr class="icons">
+<td><i class="devicon-elixir-plain-wordmark"></i></td>
+<td><i class="devicon-phoenix-plain-wordmark"></i></td>
+<td><i class="devicon-python-plain-wordmark"></i></td>
+<td><i class="devicon-django-plain"></i></td>
+<td><i class="devicon-postgresql-plain-wordmark"></i></td>
+<td><i class="devicon-typescript-plain"></i></td>
+<td><i class="devicon-react-original-wordmark"></i></td>
+<td><i class="devicon-docker-plain-wordmark"></i></td>
+<td><i class="devicon-amazonwebservices-plain-wordmark"></i></td>
+<td><i class="devicon-kubernetes-plain-wordmark"></i></td>          
+</tr>
+</table>          
+
+
+<h1> Who Am I 🎭 </h1>
+
+<img src="imgs/pronoun.gif" alt="pronoun" align="left" />
+
+<p align="right"> I've got several experiences in the marketing and communication field, particularly in Social Media and Brand strategies.
+I'm passionate about art and cultural stuff in general.</p>
+</div>
+
+<h1>Some statistics 📊:</h1>
+
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeQL&theme=chartreuse-dark&layout=compact" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SadeQL&show_icons=true&theme=chartreuse-dark&count_private=true" />
+
+
