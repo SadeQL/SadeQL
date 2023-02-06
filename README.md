@@ -1,12 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<style>
-    .icons {
-        font-size: 3em;
-    }
-</style>
-          
-
 <img src="imgs/header.png" alt="header" align="center">
 
 <h2 align="center">I'm Quentin, currently working at Welcome to the Jungle as a Backend Developer Apprentice.</h2>
@@ -18,17 +9,17 @@
 <h1>Technologies I'm working on 💻:</h1>
 
 <table align="center">
-<tr class="icons">
-<td><i class="devicon-elixir-plain-wordmark"></i></td>
-<td><i class="devicon-phoenix-plain-wordmark"></i></td>
-<td><i class="devicon-python-plain-wordmark"></i></td>
-<td><i class="devicon-django-plain"></i></td>
-<td><i class="devicon-postgresql-plain-wordmark"></i></td>
-<td><i class="devicon-typescript-plain"></i></td>
-<td><i class="devicon-react-original-wordmark"></i></td>
-<td><i class="devicon-docker-plain-wordmark"></i></td>
-<td><i class="devicon-amazonwebservices-plain-wordmark"></i></td>
-<td><i class="devicon-kubernetes-plain-wordmark"></i></td>          
+<tr align="center">
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="50px" width="50px" /><br>Elixir</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="50px" width="50px" /><br>Phoenix</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" width="50px" /><br>Python</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50px" width="50px" /><br>Django</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50px" width="50px" /><br>PostgreSQL</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50px" width="50px" /><br>TypeScript</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" width="50px" /><br>React</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50px" width="50px" /><br>Docker</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50px" width="50px" /><br>Kubernetes</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50px" width="50px" /><br>AWS</td>          
 </tr>
 </table>          
 
@@ -43,7 +34,7 @@ I'm passionate about art and cultural stuff in general.</p>
 
 <h1>Some statistics 📊:</h1>
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeQL&theme=chartreuse-dark&layout=compact" />
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SadeQL&show_icons=true&theme=chartreuse-dark&count_private=true" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeQL&theme=chartreuse-dark&layout=compact" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=SadeQL&show_icons=true&theme=chartreuse-dark&count_private=true" />
 
 
