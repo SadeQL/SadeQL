@@ -25,12 +25,11 @@
 
 
 <h1> Who Am I 🎭: </h1>
-<div>
-<img src="imgs/pronoun.gif" alt="pronoun" align="left" />
 
+<img src="imgs/pronoun.gif" alt="pronoun" align="left" />
 <p align="right"> I've got several experiences in the marketing and communication field, particularly in Social Media and Brand strategies.
 I'm passionate about art and cultural stuff in general.</p>
-</div>
+
 
 <h1>Some statistics 📊:</h1>
 
