@@ -32,6 +32,8 @@
 <p align="right"> I've got several experiences in the marketing and communication field, particularly in Social Media and Brand strategies.
 I'm passionate about art and cultural stuff in general.</p>
 
+<br>
+<br>
 
 <h1>Some statistics 📊:</h1>
 
