@@ -35,6 +35,13 @@ I'm passionate about art and cultural stuff in general.</p>
 <br>
 <br>
 
+<h1> Some articles I wrote ⌨️: </h1>
+<ul>
+<li><a href="https://medium.com/wttj-tech/the-3-features-that-will-make-you-fall-for-elixir-598c9a31172d">The 3 features that will make you fall for Elixir</a></li>
+</ul>
+  
+  
+
 <h1>Some statistics 📊:</h1>
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeQL&theme=chartreuse-dark&layout=compact" />
