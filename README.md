@@ -38,6 +38,7 @@ I'm passionate about art and cultural stuff in general.</p>
 <h1> Some articles I wrote ⌨️: </h1>
 <ul>
 <li><a href="https://medium.com/wttj-tech/the-3-features-that-will-make-you-fall-for-elixir-598c9a31172d">The 3 features that will make you fall for Elixir</a></li>
+  <li><a href="https://www.linkedin.com/pulse/my-journey-backend-developer-apprentice-who-just-changed-quentin-lee/">My journey as a Backend Developer Apprentice who just changed careers</a></li>
 </ul>
   
   
