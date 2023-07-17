@@ -41,11 +41,4 @@ I'm passionate about art and cultural stuff in general.</p>
   <li><a href="https://www.linkedin.com/pulse/my-journey-backend-developer-apprentice-who-just-changed-quentin-lee/">My journey as a Backend Developer Apprentice who just changed careers</a></li>
 </ul>
   
-  
-
-<h1>Some statistics 📊:</h1>
-
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeQL&theme=chartreuse-dark&layout=compact" />
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=SadeQL&show_icons=true&theme=chartreuse-dark&count_private=true" />
-
 
