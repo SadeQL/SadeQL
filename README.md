@@ -1,6 +1,6 @@
 <img src="imgs/header.png" alt="header" align="center">
 
-<h2 align="center">I'm Quentin, currently working at Better World as a Fullstack Developer.</h2>
+<h2 align="center">I'm Quentin, currently working as a Fullstack Developer.</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Quentin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-lee/)](https://www.linkedin.com/in/quentin-lee/)
 [![Gmail Badge](https://img.shields.io/badge/-quentinyuehyulee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:quentinyuehyulee@gmail.com)
